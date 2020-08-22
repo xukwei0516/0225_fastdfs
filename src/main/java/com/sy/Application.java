@@ -14,6 +14,7 @@ public class Application {
         System.out.println("李四的编辑");
         System.out.println("张三的第二次上传");
         System.out.println("张三的第三次上传");
+        System.out.println("张三的第四次上传");
         SpringApplication.run(Application.class, args);
     }
 
