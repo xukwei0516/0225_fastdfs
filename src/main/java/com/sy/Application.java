@@ -10,6 +10,7 @@ import org.springframework.context.annotation.Import;
 public class Application {
 
     public static void main(String[] args) {
+        System.out.println("张三的编辑");
         SpringApplication.run(Application.class, args);
     }
 
